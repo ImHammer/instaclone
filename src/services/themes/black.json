@@ -1,0 +1,7 @@
+{
+    "background": "black",
+    "foreground": "white",
+    "sub_title": {
+        "foreground": "white"
+    }
+}
